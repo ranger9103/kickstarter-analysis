@@ -24,5 +24,6 @@ The lower the goal the more likely it is to be successful.
 - What are some limitations of this dataset?
 Data can be filtered by country but analysis becomes more and more limited as you filter. Thus, overall results may not correlate to a particular region or demographic.
 There are fewer projects with higher goals so the data may not represent a higher goal outcome likelihood well. 
+_Another limitation with the plays filter is that the numbers are greatly reduced. This may lead to unclear or an incomplete picture of the potential fundraising ability._
 - What are some other possible tables and/or graphs that we could create?
 Filter by country to match Louise's location.
